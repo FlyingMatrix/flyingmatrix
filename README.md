@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 <div style="display: flex; justify-content: center; align-items: center;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/monkey531/assets/blob/main/github-contribution-grid-snake-dark.svg" />
@@ -23,3 +23,4 @@ Here are some ideas to get you started:
     <img alt="github-snake" src="https://github.com/monkey531/assets/blob/main/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+-->

@@ -24,8 +24,3 @@ Here are some ideas to get you started:
   </picture>
 </div>
 -->
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlyingMatrix&layout=compact&langs_count=8&theme=tokyonight" 
-       height="200px"/>
-</div>

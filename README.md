@@ -25,16 +25,4 @@ Here are some ideas to get you started:
 </div>
 -->
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingmatrix&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-    media="(prefers-color-scheme: dark)"
-    width="36%"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingmatrix&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    width="36%"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingmatrix&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="40%" />
-</picture>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlyingMatrix&layout=compact&theme=tokyonight)

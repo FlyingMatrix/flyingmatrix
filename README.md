@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://github.com/FlyingMatrix/flyingmatrix/blob/main/japan.gif" align="middle" alt="Banner" width="100%"/>
+<img src="https://github.com/FlyingMatrix/flyingmatrix/blob/main/japan.gif" align="middle" alt="Banner" width="80%"/>
 
 <!--
 **FlyingMatrix/flyingmatrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

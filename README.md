@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h3> -- My tech stack -- </h3>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,ubuntu,anaconda,powershell,vscode,r,cs,cpp,visualstudio,unity,git,github,bitbucket,markdown&perline=8" alt="mytechstack" width="320">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,ubuntu,anaconda,powershell,vscode,r,cs,cpp,visualstudio,unity,git,github,bitbucket,markdown&perline=16" alt="mytechstack" width="320">
 </div>
 
 <br/>
@@ -29,6 +29,6 @@ Here are some ideas to get you started:
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlyingMatrix&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
     alt="Top Languages" 
-    width="40%" 
+    width="30%" 
   />
 </div>

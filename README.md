@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://github.com/FlyingMatrix/flyingmatrix/blob/main/japan.gif" alt="Banner" width="70%">
+  <img src="https://github.com/FlyingMatrix/flyingmatrix/blob/main/japan.gif" alt="Banner" width="61.8%">
 </div>
 

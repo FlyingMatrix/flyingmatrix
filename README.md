@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h3> -- My tech stack -- </h3>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,ubuntu,anaconda,powershell,vscode,r,cs,cpp,visualstudio,unity,git,github,bitbucket,markdown&perline=16" alt="mytechstack">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,ubuntu,anaconda,powershell,vscode,cs,cpp,visualstudio,unity,git,github&perline=12" alt="mytechstack" width=360>
 </div>

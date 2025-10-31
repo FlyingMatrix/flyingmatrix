@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <h3> -- My tech stack -- </h3>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,ubuntu,anaconda,powershell,vscode,r,cs,cpp,visualstudio,unity,git,github,bitbucket,markdown&perline=8" alt="mytechstack" width="400">
+  <h4> -- My tech stack -- </h4>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,ubuntu,anaconda,powershell,vscode,r,cs,cpp,visualstudio,unity,git,github,bitbucket,markdown&perline=8" alt="mytechstack" width="300">
 </div>

@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<div align="center">
-  <img src="https://github.com/FlyingMatrix/flyingmatrix/blob/main/japan.gif" alt="Banner" width="80%">
-</div>
-
 <!--
 **FlyingMatrix/flyingmatrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,12 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-<div style="display: flex; justify-content: center; align-items: center;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/monkey531/assets/blob/main/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/monkey531/assets/blob/main/github-contribution-grid-snake-light.svg" />
-    <img alt="github-snake" src="https://github.com/monkey531/assets/blob/main/github-contribution-grid-snake.svg" />
-  </picture>
+<div align="center">
+  <img src="https://github.com/FlyingMatrix/flyingmatrix/blob/main/japan.gif" alt="Banner" width="70%">
 </div>
--->
+

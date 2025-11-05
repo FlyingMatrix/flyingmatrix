@@ -24,4 +24,4 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,ubuntu,anaconda,powershell,vscode,cs,cpp,visualstudio,unity,git,github&perline=17" alt="mytechstack">
 </div>
 
-![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+<img src="./profile-3d-contrib/profile.svg" alt="3D Contribution Graph" width="61.8%" />

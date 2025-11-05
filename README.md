@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
 <div align="center">
   <br>
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="61.8%" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="61.8%" />
 </div>

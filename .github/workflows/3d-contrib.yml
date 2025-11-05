@@ -2,8 +2,8 @@ name: Generate 3D Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # runs every day at midnight UTC
-  workflow_dispatch:      # allows manual trigger
+    - cron: "0 0 * * *"  # runs daily at midnight UTC
+  workflow_dispatch:
 
 jobs:
   build:
@@ -12,27 +12,30 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout profile repo
+      - name: Checkout your profile repo
         uses: actions/checkout@v4
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '18'
 
-      - name: Clone the generator
+      - name: Clone the generator repository
         run: git clone https://github.com/yoshi389111/github-profile-3d-contrib.git tools/github-profile-3d-contrib
 
       - name: Install dependencies
         run: |
           cd tools/github-profile-3d-contrib
-          npm install
+          npm ci || npm install
 
-      - name: Generate 3D Contribution Graph
+      - name: Run generator manually
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           cd tools/github-profile-3d-contrib
-          npm run generate -- --username ${{ github.repository_owner }} --theme=monokai --format=svg
-          cp -r out ../../profile-3d-contrib
+          node src/main.js --username ${{ github.repository_owner }} --theme monokai --format svg
+          mkdir -p ../../profile-3d-contrib
+          cp -r out/* ../../profile-3d-contrib/
 
       - name: Commit and push
         run: |

@@ -33,7 +33,9 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,ubuntu,anaconda,powershell,vscode,cs,cpp,visualstudio,unity,git,github&perline=17" alt="mytechstack">
 </p>
 
-<div align="center">
-  <br>
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="61.8%" />
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&width=650&lines=--%20Contributions%20--&font=Fira+Code&size=18&pause=6000&loop=true" alt="Typing SVG"/>
+  </a>
+   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="61.8%" />
+</p>

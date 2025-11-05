@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=650&lines=Hi+there+👋,+welcome+to+my+GitHub+profile!;I+am+FlyingMatrix,+a+deep+learning+enthusiast.;Constantly+exploring+new+techniques.&font=Fira+Code&size=18&pause=1000&loop=true" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=650&lines=Hi+there+👋,+welcome+to+my+GitHub+profile!;I+am+FlyingMatrix,+a+deep+learning+enthusiast.&font=Fira+Code&size=18&pause=1000&loop=true" alt="Typing SVG"/>
   </a>
 </p>
 

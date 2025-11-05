@@ -2,43 +2,34 @@ name: Generate 3D Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # every day at midnight UTC
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # runs daily at midnight UTC
+  workflow_dispatch:       # allows manual trigger
+
+permissions:
+  contents: write          # allows commits back to repo
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
-      - name: Checkout your profile repo
+      # Step 1: checkout your repo
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Clone 3D contrib generator
-        run: git clone https://github.com/yoshi389111/github-profile-3d-contrib.git tools/github-profile-3d-contrib
-
-      - name: Install dependencies
-        run: |
-          cd tools/github-profile-3d-contrib
-          pip install -r requirements.txt
-
-      - name: Generate 3D contribution graph
+      # Step 2: run 3D contribution generator
+      - name: Generate 3D Contributions
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          cd tools/github-profile-3d-contrib
-          python main.py --username ${{ github.repository_owner }} --theme monokai --output ../../profile-3d-contrib
+          USERNAME: ${{ github.repository_owner }}
 
-      - name: Commit and push
+      # Step 3: commit and push generated files
+      - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add .
-          git commit -m "Update 3D contribution graph" || echo "No changes to commit"
-          git push
+          git add -A
+          if git commit -m "Update 3D contribution graph"; then
+            git push
+          fi

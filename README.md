@@ -25,10 +25,13 @@ Here are some ideas to get you started:
   <img src="https://github.com/FlyingMatrix/flyingmatrix/blob/main/japan.gif" alt="Banner" width="61.8%">
 </div>
 
-<div align="center">
-  <h3> -- My tech stack -- </h3>
+<br>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&width=650&lines=--%20My%20tech%20stack%20--&font=Fira+Code&size=18&pause=6000&loop=true" alt="Typing SVG"/>
+  </a>
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,ubuntu,anaconda,powershell,vscode,cs,cpp,visualstudio,unity,git,github&perline=17" alt="mytechstack">
-</div>
+</p>
 
 <div align="center">
   <br>

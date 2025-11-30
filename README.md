@@ -28,14 +28,14 @@ Here are some ideas to get you started:
 <br>
 <p align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF00&center=true&width=650&lines=flying_matrix@github:~$%20ls%20tech_stack&font=Fira+Code&size=18&pause=6000&loop=true" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF00&center=true&width=650&lines=FlyingMatrix@github:~$%20ls%20tech_stack&font=Fira+Code&size=18&pause=6000&loop=true" alt="Typing SVG"/>
   </a>
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,ubuntu,anaconda,powershell,vscode,cs,cpp,visualstudio,unity,git,github&perline=17" alt="mytechstack">
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF00&center=true&width=650&lines=flying_matrix@github:~$%20gnuplot%20contributions.gp&font=Fira+Code&size=18&pause=6000&loop=true" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF00&center=true&width=650&lines=FlyingMatrix@github:~$%20gnuplot%20contributions.gp&font=Fira+Code&size=18&pause=6000&loop=true" alt="Typing SVG"/>
   </a>
    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="72%" />
 </p>

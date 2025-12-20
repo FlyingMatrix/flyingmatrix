@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF00&center=true&width=650&lines=FlyingMatrix@github:~$%20ls%20tech_stack&font=Fira+Code&size=18&pause=6000&loop=true" alt="Typing SVG"/>
   </a>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,ubuntu,anaconda,powershell,vscode,cs,cpp,visualstudio,unity,git,github&perline=17" alt="mytechstack">
+  <img src="https://skillicons.dev/icons?i=python,rust,pytorch,tensorflow,ubuntu,anaconda,powershell,vscode,cs,cpp,visualstudio,unity,git,github&perline=17" alt="mytechstack">
 </p>
 
 <p align="center">
